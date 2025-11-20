@@ -37,7 +37,9 @@
 Клонуйте репозиторій:
 
 git clone [https://github.com/YAZEGUS/react-project.git](https://github.com/YAZEGUS/react-project.git)
+
 cd react-project
+
 Встановіть залежності:
 
 npm install
