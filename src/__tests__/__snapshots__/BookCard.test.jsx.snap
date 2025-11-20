@@ -1,0 +1,50 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`BookCard Component > matches snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="book-card"
+  >
+    <div
+      class="card-image-wrapper"
+    >
+      <img
+        alt="Test Book JS"
+        class="card-image"
+        src="http://example.com/image.jpg"
+      />
+    </div>
+    <div
+      class="card-content"
+    >
+      <h3
+        class="book-title"
+      >
+        Test Book JS
+      </h3>
+      <p
+        class="book-authors"
+      >
+        Author One, Author Two
+      </p>
+      <div
+        class="card-actions"
+      >
+        <a
+          class="btn btn-outline"
+          data-discover="true"
+          href="/book/123"
+        >
+          Детальніше
+        </a>
+        <button
+          class="btn-fav "
+          title="Додати в обране"
+        >
+          ★
+        </button>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
